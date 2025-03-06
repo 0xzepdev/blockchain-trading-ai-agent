@@ -1,5 +1,5 @@
 # 🤖Solana AI Agent using ELIZA Framework
-=====================================
+
 
 Introduction
 Welcome to the AI Agent project powered by the ELIZA framework! This chatbot simulates human-like conversations using classic natural language processing (NLP) techniques. It is designed to provide an engaging, interactive, and intelligent conversational experience.
