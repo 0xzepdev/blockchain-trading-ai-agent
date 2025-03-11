@@ -1,4 +1,4 @@
-# 🤖Blockchain AI Agent using ELIZA Framework
+# 🤖Trading AI Agent(DeFAI) using ELIZA Framework
 
 ## 🔥 Introduction
 The Blockchain AI Agent is an AI-powered chatbot that interacts with smart contracts, DeFi platforms, NFTs, and Web3 applications using the ELIZA framework. By combining natural language processing (NLP) with blockchain automation, this agent can provide real-time insights, execute smart contract functions, and analyze blockchain data.
