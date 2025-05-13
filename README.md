@@ -1,7 +1,7 @@
-# Solana Trading AI Agent(DeFAI) using ELIZA Framework
+# Solana, Sui, Base Trading AI Agent(DeFAI) using ELIZA Framework
 
 ## 🔥 Introduction
-The Solana AI Agent is an AI-powered chatbot that interacts with smart contracts, DeFi platforms, NFTs, and Web3 applications using the ELIZA framework. By combining natural language processing (NLP) with blockchain automation, this agent can provide real-time insights, execute smart contract functions, and analyze blockchain data.
+The blockchain AI Agent is an AI-powered chatbot that interacts with smart contracts, DeFi platforms, NFTs, and Web3 applications using the ELIZA framework. By combining natural language processing (NLP) with blockchain automation, this agent can provide real-time insights, execute smart contract functions, and analyze blockchain data.
 
 ## 🚀 Features
 - AI-driven Smart Contract Interaction 
