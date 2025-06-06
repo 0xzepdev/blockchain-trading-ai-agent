@@ -28,5 +28,5 @@ The blockchain AI Agent is an AI-powered chatbot that interacts with smart contr
 - Real-Time Blockchain Insights – AI fetches DeFi, NFT, and DAO data.
 - Security & Trading Automation – Uses AI for risk assessment and DeFi bot execution.
 
-- Telegram [@defai_maxi](https://t.me/defai_maxi).
-- Twitter [DeFiMaxi](https://x.com/defai_maxi)
+- [Telegram](https://t.me/oxzepdev).
+- [Twitter](https://x.com/0xzepdev)
